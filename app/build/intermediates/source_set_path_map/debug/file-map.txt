@@ -1,0 +1,75 @@
+com.dailydeen.app-constraintlayout-2.0.1-0 /home/seryne/.gradle/caches/transforms-3/0451557480c2c18ab9f6ef36ed703b61/transformed/constraintlayout-2.0.1/res
+com.dailydeen.app-navigation-common-2.7.5-1 /home/seryne/.gradle/caches/transforms-3/0a5b207b9f878031cda24f4b98a4e5fd/transformed/navigation-common-2.7.5/res
+com.dailydeen.app-jetified-datastore-preferences-1.0.0-2 /home/seryne/.gradle/caches/transforms-3/0e0a0e4b2962f4bda107d46bdc98f8ac/transformed/jetified-datastore-preferences-1.0.0/res
+com.dailydeen.app-navigation-runtime-2.7.5-3 /home/seryne/.gradle/caches/transforms-3/17a0216ecf9ac76e040798a7ee192c67/transformed/navigation-runtime-2.7.5/res
+com.dailydeen.app-jetified-customview-poolingcontainer-1.0.0-4 /home/seryne/.gradle/caches/transforms-3/25b3fb23d16b25b1615a86430c314676/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.dailydeen.app-jetified-profileinstaller-1.3.0-5 /home/seryne/.gradle/caches/transforms-3/276b7e43f2edf82b689e9e8f9cc7f9a6/transformed/jetified-profileinstaller-1.3.0/res
+com.dailydeen.app-appcompat-1.6.1-6 /home/seryne/.gradle/caches/transforms-3/29d99cde2ab88b85d5038c039fc7373a/transformed/appcompat-1.6.1/res
+com.dailydeen.app-lifecycle-viewmodel-2.6.2-7 /home/seryne/.gradle/caches/transforms-3/2c90388c3dcd4cf4356554c754984cac/transformed/lifecycle-viewmodel-2.6.2/res
+com.dailydeen.app-lifecycle-livedata-core-2.6.2-8 /home/seryne/.gradle/caches/transforms-3/3004744adb02254bde579c50296fbd54/transformed/lifecycle-livedata-core-2.6.2/res
+com.dailydeen.app-jetified-ui-geometry-release-9 /home/seryne/.gradle/caches/transforms-3/33fe5b5b5b1c1ef67aec90ee035e583a/transformed/jetified-ui-geometry-release/res
+com.dailydeen.app-jetified-lifecycle-viewmodel-compose-2.6.2-10 /home/seryne/.gradle/caches/transforms-3/3f74ece99a10195a5ea90542aa624a01/transformed/jetified-lifecycle-viewmodel-compose-2.6.2/res
+com.dailydeen.app-lifecycle-runtime-2.6.2-11 /home/seryne/.gradle/caches/transforms-3/406fac8483403d7de70005ee95c50aa5/transformed/lifecycle-runtime-2.6.2/res
+com.dailydeen.app-jetified-savedstate-ktx-1.2.1-12 /home/seryne/.gradle/caches/transforms-3/4138787a1e03ce03df0a56dd7a71f16c/transformed/jetified-savedstate-ktx-1.2.1/res
+com.dailydeen.app-jetified-navigation-compose-2.7.5-13 /home/seryne/.gradle/caches/transforms-3/4290f051137c7c0e518c244122699534/transformed/jetified-navigation-compose-2.7.5/res
+com.dailydeen.app-drawerlayout-1.1.1-14 /home/seryne/.gradle/caches/transforms-3/4491164ece59b114459d5a3d9ffb4343/transformed/drawerlayout-1.1.1/res
+com.dailydeen.app-jetified-core-ktx-1.12.0-15 /home/seryne/.gradle/caches/transforms-3/47849481101224dbfa922c431abc539a/transformed/jetified-core-ktx-1.12.0/res
+com.dailydeen.app-jetified-material-icons-core-release-16 /home/seryne/.gradle/caches/transforms-3/4871a9fe246412786b6892eaab565e5f/transformed/jetified-material-icons-core-release/res
+com.dailydeen.app-jetified-ui-graphics-release-17 /home/seryne/.gradle/caches/transforms-3/4f042bd8135d2cbdd9dc78c554edebc2/transformed/jetified-ui-graphics-release/res
+com.dailydeen.app-jetified-runtime-release-18 /home/seryne/.gradle/caches/transforms-3/5060812e34e09a77cf68e45f46531598/transformed/jetified-runtime-release/res
+com.dailydeen.app-jetified-lifecycle-process-2.6.2-19 /home/seryne/.gradle/caches/transforms-3/52af2b1078ecf0cf80b4e58592a757fa/transformed/jetified-lifecycle-process-2.6.2/res
+com.dailydeen.app-jetified-emoji2-views-helper-1.4.0-20 /home/seryne/.gradle/caches/transforms-3/53c782e35c164974b1949ec443f06d82/transformed/jetified-emoji2-views-helper-1.4.0/res
+com.dailydeen.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-21 /home/seryne/.gradle/caches/transforms-3/55131967d2c02c055bfc3ae3c2e94a87/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/res
+com.dailydeen.app-coordinatorlayout-1.1.0-22 /home/seryne/.gradle/caches/transforms-3/581e18e8af90962209f908fe4c5d158d/transformed/coordinatorlayout-1.1.0/res
+com.dailydeen.app-jetified-ui-unit-release-23 /home/seryne/.gradle/caches/transforms-3/5b14a522fe96c8cd1bffa34019752089/transformed/jetified-ui-unit-release/res
+com.dailydeen.app-jetified-animation-core-release-24 /home/seryne/.gradle/caches/transforms-3/5ee357e6934d5cd4be7655d60d83013f/transformed/jetified-animation-core-release/res
+com.dailydeen.app-jetified-startup-runtime-1.1.1-25 /home/seryne/.gradle/caches/transforms-3/618c6af5adfca751b0232f6f0f8f479b/transformed/jetified-startup-runtime-1.1.1/res
+com.dailydeen.app-cardview-1.0.0-26 /home/seryne/.gradle/caches/transforms-3/7750d4e08b5eb7322ee8b6e315139c57/transformed/cardview-1.0.0/res
+com.dailydeen.app-jetified-foundation-release-27 /home/seryne/.gradle/caches/transforms-3/7a391ebd5498b2c6609c6f5d78d246dd/transformed/jetified-foundation-release/res
+com.dailydeen.app-recyclerview-1.1.0-28 /home/seryne/.gradle/caches/transforms-3/7ce4918668cb1ad6b8a9c424e188066c/transformed/recyclerview-1.1.0/res
+com.dailydeen.app-work-runtime-ktx-2.9.0-29 /home/seryne/.gradle/caches/transforms-3/7fb0aec033bc4ba57eae345e6fd2af26/transformed/work-runtime-ktx-2.9.0/res
+com.dailydeen.app-jetified-ui-test-manifest-1.5.4-30 /home/seryne/.gradle/caches/transforms-3/81c08b95a44b07ad5b890ff68ff6f669/transformed/jetified-ui-test-manifest-1.5.4/res
+com.dailydeen.app-jetified-appcompat-resources-1.6.1-31 /home/seryne/.gradle/caches/transforms-3/82a39f910e9c9a0a94b513e3ad9426f4/transformed/jetified-appcompat-resources-1.6.1/res
+com.dailydeen.app-jetified-material-icons-extended-release-32 /home/seryne/.gradle/caches/transforms-3/8503352c9c3e1a0f28d7c6b64a8f0620/transformed/jetified-material-icons-extended-release/res
+com.dailydeen.app-lifecycle-livedata-2.6.2-33 /home/seryne/.gradle/caches/transforms-3/8a137065fb2540678a084fc7c0892923/transformed/lifecycle-livedata-2.6.2/res
+com.dailydeen.app-navigation-common-ktx-2.7.5-34 /home/seryne/.gradle/caches/transforms-3/8d8113b7e10e46960031f6eb09986661/transformed/navigation-common-ktx-2.7.5/res
+com.dailydeen.app-jetified-ui-text-release-35 /home/seryne/.gradle/caches/transforms-3/99043e31b02f58f1ad0cbfe315902f7b/transformed/jetified-ui-text-release/res
+com.dailydeen.app-work-runtime-2.9.0-36 /home/seryne/.gradle/caches/transforms-3/9c15a1dc1a6ebda0952f71feb6519ced/transformed/work-runtime-2.9.0/res
+com.dailydeen.app-fragment-1.3.6-37 /home/seryne/.gradle/caches/transforms-3/9d914e4fe4d7cb3ae79cb3c3b55867e0/transformed/fragment-1.3.6/res
+com.dailydeen.app-jetified-annotation-experimental-1.3.0-38 /home/seryne/.gradle/caches/transforms-3/9e6d74403f696900b86bac9cd999c927/transformed/jetified-annotation-experimental-1.3.0/res
+com.dailydeen.app-jetified-ui-tooling-release-39 /home/seryne/.gradle/caches/transforms-3/a0d63c75f82473e3550d89a56addbc39/transformed/jetified-ui-tooling-release/res
+com.dailydeen.app-jetified-material-ripple-release-40 /home/seryne/.gradle/caches/transforms-3/a15ae97e98f4e8035473f63d9ad63cfe/transformed/jetified-material-ripple-release/res
+com.dailydeen.app-jetified-lifecycle-service-2.6.2-41 /home/seryne/.gradle/caches/transforms-3/a2566ebe4ec5e6b3f331d10df495b403/transformed/jetified-lifecycle-service-2.6.2/res
+com.dailydeen.app-jetified-lifecycle-runtime-ktx-2.6.2-42 /home/seryne/.gradle/caches/transforms-3/ab57ab92e2666347d15fcc7996f2b23d/transformed/jetified-lifecycle-runtime-ktx-2.6.2/res
+com.dailydeen.app-jetified-runtime-saveable-release-43 /home/seryne/.gradle/caches/transforms-3/aea5b0ee2edd084b93fca590e8acf639/transformed/jetified-runtime-saveable-release/res
+com.dailydeen.app-jetified-viewpager2-1.0.0-44 /home/seryne/.gradle/caches/transforms-3/b023f6f97b864c9dca07656c898bb31a/transformed/jetified-viewpager2-1.0.0/res
+com.dailydeen.app-jetified-savedstate-1.2.1-45 /home/seryne/.gradle/caches/transforms-3/b15f145ce0076566edda3f2c4183b6ce/transformed/jetified-savedstate-1.2.1/res
+com.dailydeen.app-jetified-ui-util-release-46 /home/seryne/.gradle/caches/transforms-3/b68519923035c0099dfa5325f27d1286/transformed/jetified-ui-util-release/res
+com.dailydeen.app-jetified-lifecycle-viewmodel-ktx-2.6.2-47 /home/seryne/.gradle/caches/transforms-3/bd8f93f97face9c0e084a988adcf09aa/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/res
+com.dailydeen.app-navigation-runtime-ktx-2.7.5-48 /home/seryne/.gradle/caches/transforms-3/c633a256c06b4d233b6417ec03ecc267/transformed/navigation-runtime-ktx-2.7.5/res
+com.dailydeen.app-jetified-ui-tooling-data-release-49 /home/seryne/.gradle/caches/transforms-3/ca8eec157d04f7421398ce531f26dbf3/transformed/jetified-ui-tooling-data-release/res
+com.dailydeen.app-core-1.12.0-50 /home/seryne/.gradle/caches/transforms-3/cf569f951b4aa3f1820515483d017951/transformed/core-1.12.0/res
+com.dailydeen.app-jetified-activity-1.8.1-51 /home/seryne/.gradle/caches/transforms-3/d096fd6ad9b94aab440e419b8c962a15/transformed/jetified-activity-1.8.1/res
+com.dailydeen.app-room-runtime-2.6.0-52 /home/seryne/.gradle/caches/transforms-3/d61368ba6bb1465d2fc797738396354c/transformed/room-runtime-2.6.0/res
+com.dailydeen.app-jetified-activity-ktx-1.8.1-53 /home/seryne/.gradle/caches/transforms-3/dabdd8e531b79d39c73a0fa085056f2c/transformed/jetified-activity-ktx-1.8.1/res
+com.dailydeen.app-jetified-datastore-1.0.0-54 /home/seryne/.gradle/caches/transforms-3/dcd7d1d1972205e701de830e0a920943/transformed/jetified-datastore-1.0.0/res
+com.dailydeen.app-sqlite-2.4.0-55 /home/seryne/.gradle/caches/transforms-3/de0e0ae2a326efa9fb692f724cc0b3db/transformed/sqlite-2.4.0/res
+com.dailydeen.app-sqlite-framework-2.4.0-56 /home/seryne/.gradle/caches/transforms-3/de96680221cec14c994acf973a6df910/transformed/sqlite-framework-2.4.0/res
+com.dailydeen.app-jetified-animation-release-57 /home/seryne/.gradle/caches/transforms-3/df23d0f4470137d86fccbf23d3b4aea0/transformed/jetified-animation-release/res
+com.dailydeen.app-jetified-activity-compose-1.8.1-58 /home/seryne/.gradle/caches/transforms-3/dfd358f41f462956742db3e8b6860ce4/transformed/jetified-activity-compose-1.8.1/res
+com.dailydeen.app-jetified-ui-release-59 /home/seryne/.gradle/caches/transforms-3/e1c121d216fbb211cfaaad3fe84ab6a8/transformed/jetified-ui-release/res
+com.dailydeen.app-core-runtime-2.2.0-60 /home/seryne/.gradle/caches/transforms-3/e6a88a98738afa23bee5b3357af53394/transformed/core-runtime-2.2.0/res
+com.dailydeen.app-transition-1.2.0-61 /home/seryne/.gradle/caches/transforms-3/e863392a529212c5b5ed067c5ec50629/transformed/transition-1.2.0/res
+com.dailydeen.app-jetified-room-ktx-2.6.0-62 /home/seryne/.gradle/caches/transforms-3/f49766805407f94ef0f86b2cf618de12/transformed/jetified-room-ktx-2.6.0/res
+com.dailydeen.app-jetified-material-release-63 /home/seryne/.gradle/caches/transforms-3/f927fd71c1a03b75f65fccc791af8943/transformed/jetified-material-release/res
+com.dailydeen.app-jetified-ui-tooling-preview-release-64 /home/seryne/.gradle/caches/transforms-3/f9f558ff96096425620711b9ac1e5199/transformed/jetified-ui-tooling-preview-release/res
+com.dailydeen.app-jetified-foundation-layout-release-65 /home/seryne/.gradle/caches/transforms-3/fa315f6622ce868fc32c83d93e0da9b4/transformed/jetified-foundation-layout-release/res
+com.dailydeen.app-material-1.9.0-66 /home/seryne/.gradle/caches/transforms-3/fa43cd92b0a8870058fd8d08be989299/transformed/material-1.9.0/res
+com.dailydeen.app-jetified-emoji2-1.4.0-67 /home/seryne/.gradle/caches/transforms-3/fded4207910ebeb5bf76d5e178be408f/transformed/jetified-emoji2-1.4.0/res
+com.dailydeen.app-jetified-material3-1.1.2-68 /home/seryne/.gradle/caches/transforms-3/ff593a9ad77e0766c6d46dbb9a2e9689/transformed/jetified-material3-1.1.2/res
+com.dailydeen.app-resValues-69 /home/seryne/StudioProjects/android siham/app/build/generated/res/resValues/debug
+com.dailydeen.app-packageDebugResources-70 /home/seryne/StudioProjects/android siham/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.dailydeen.app-packageDebugResources-71 /home/seryne/StudioProjects/android siham/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.dailydeen.app-merged_res-72 /home/seryne/StudioProjects/android siham/app/build/intermediates/merged_res/debug
+com.dailydeen.app-debug-73 /home/seryne/StudioProjects/android siham/app/src/debug/res
+com.dailydeen.app-main-74 /home/seryne/StudioProjects/android siham/app/src/main/res
